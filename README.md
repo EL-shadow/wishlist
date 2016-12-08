@@ -1,5 +1,10 @@
 # Хочу...
 
+## Инструмент
+- Шуруповерт аккумуляторный [Bosch GSB 10,8-2-LI 2.0Ah x2 L-BOXX][shurupovert]
+- Шуруповерт компактный (электро отвертка) [Bosch IXO 4 Upgrade medium][otvertka]
+- [Набор бит для шуруповерта][bitynashurupovert]
+
 ## Всякое
 - Все серии сериала [Малкольм в центрі уваги][malcolm] в озвучке Новый-канал (1-7 сезоны, именно в этой озвучке)
 - [Набор DIY светодиодные часы][diyledclock]
@@ -23,6 +28,9 @@
 [rubikangle2]: https://ru.aliexpress.com/item/3x3x3-Cyclone-Boys-Magic-Cube-Puzzle-Cubes-Speed-Cubo-Square-Puzzle-No-Sticker-Rainbow-Gifts-Educational/32713235049.html
 [neocubeball]: https://ru.aliexpress.com/item/13Colors-Option-5mm-216-pcs-Neo-Cube-Magic-Cube-Puzzle-Metaballs-Magnetic-Balls-with-metal-box/32757115162.html
 [neocubecube]:https://ru.aliexpress.com/item/216Pcs-Magnet-Beads-Magnetic-Cube-5mm-Square-Balls-Cubo-Magico-4-on-4-Creatives-Toy-for/32750565020.html
+[shurupovert]:https://market.yandex.ru/product/10589353
+[otvertka]:https://market.yandex.ru/product/8482956
+[bitynashurupovert]:http://www.dns-shop.ru/product/e1e7a90d00363361/nabor-bit-bosch-2607017164/
 
 -------
 > Вишлист (от англ. Wish List — список желаний) — термин, который появился благодаря западным 
