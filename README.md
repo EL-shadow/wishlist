@@ -4,6 +4,7 @@
 - Шуруповерт аккумуляторный [Bosch GSB 10,8-2-LI 2.0Ah x2 L-BOXX][shurupovert]
 - Шуруповерт компактный (электро отвертка) [Bosch IXO 4 Upgrade medium][otvertka]
 - [Набор бит для шуруповерта][bitynashurupovert]
+- [Профессиональный мультиметр][multimetr]
 
 ## Всякое
 - Все серии сериала [Малкольм в центрі уваги][malcolm] в озвучке Новый-канал (1-7 сезоны, именно в этой озвучке)
@@ -31,6 +32,7 @@
 [shurupovert]:https://market.yandex.ru/product/10589353
 [otvertka]:https://market.yandex.ru/product/8482956
 [bitynashurupovert]:http://www.dns-shop.ru/product/e1e7a90d00363361/nabor-bit-bosch-2607017164/
+[multimetr]:https://ru.aliexpress.com/item/HYELEC-MS8236-6000-Counts-Digital-Multimeter-with-T-RMS-USB-1000V-10A-60M-Ohm-100mF-10MHz/32531814702.html
 
 -------
 > Вишлист (от англ. Wish List — список желаний) — термин, который появился благодаря западным 
