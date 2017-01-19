@@ -17,6 +17,7 @@
  - [Кубик рубика с подрезанными][rubikangle] [углами][rubikangle2]
  - [Неокуб - набор неодимовых шариков-магнитов 216 штук Ф5мм][neocubeball]
  - [Неокуб - набор неодимовых кубиков-магнитов 216 штук 5х5х5мм][neocubecube]
+ - [Resident Evil T-Virus и антивирус][tvirus]
 
 ## Долгосрочное
 - _
@@ -37,6 +38,7 @@
 [multimetr]:https://ru.aliexpress.com/item/HYELEC-MS8236-6000-Counts-Digital-Multimeter-with-T-RMS-USB-1000V-10A-60M-Ohm-100mF-10MHz/32531814702.html
 [extrahand]:https://ru.aliexpress.com/item/Adjustable-3-5X-12X-Helping-Hand-Clip-LED-Light-Magnifying-Glass-Lens-Desk-Desktop-Table-Magnifier/32753379905.html
 [micrometer]:https://ru.aliexpress.com/item/V1NF-Digital-Vernier-Caliper-Gauge-Micrometer-Electronic-LCD-With-Case-150mm-Free-Shipping/32647747511.html
+[tvirus]:http://www.bigbadtoystore.com/bbts/product.aspx?product=HCO10078&mode=retail
 
 -------
 > Вишлист (от англ. Wish List — список желаний) — термин, который появился благодаря западным 
