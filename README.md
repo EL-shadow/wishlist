@@ -7,6 +7,7 @@
 - [Профессиональный мультиметр][multimetr]
 - ["Третья рука" с подсветкой][extrahand]
 - [Электронный штангенциркуль][micrometer]
+- [Универсальное зарядное устройство Imax][imaxcharger]
 
 ## Всякое
 - Все серии сериала [Малкольм в центрі уваги][malcolm] в озвучке Новый-канал (1-7 сезоны, именно в этой озвучке)
@@ -39,6 +40,7 @@
 [extrahand]:https://ru.aliexpress.com/item/Adjustable-3-5X-12X-Helping-Hand-Clip-LED-Light-Magnifying-Glass-Lens-Desk-Desktop-Table-Magnifier/32753379905.html
 [micrometer]:https://ru.aliexpress.com/item/V1NF-Digital-Vernier-Caliper-Gauge-Micrometer-Electronic-LCD-With-Case-150mm-Free-Shipping/32647747511.html
 [tvirus]:http://www.bigbadtoystore.com/bbts/product.aspx?product=HCO10078&mode=retail
+[imaxcharger]:https://ru.aliexpress.com/item/100-Original-SKYRC-IMAX-B6AC-V2-RC-Charger-Dual-Power-50W-Genuine-Lipo-Battery-Balance-Discharger/32636755057.html
 
 -------
 > Вишлист (от англ. Wish List — список желаний) — термин, который появился благодаря западным 
