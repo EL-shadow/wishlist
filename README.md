@@ -5,9 +5,7 @@
 - [Универсальное зарядное устройство Imax][imaxcharger]
 
 ## Всякое
-- Все серии сериала [Малкольм в центрі уваги][malcolm] в озвучке Новый-канал (1-7 сезоны, именно в этой озвучке)
 - Головоолмки
- - [Сфера лабиринт из 100 шагов (диаметр 19 см)][labirint]
  - [Неокуб - набор неодимовых шариков-магнитов 216 штук Ф5мм][neocubeball]
  - [Неокуб - набор неодимовых кубиков-магнитов 216 штук 5х5х5мм][neocubecube]
  - [Resident Evil T-Virus и антивирус][tvirus]
@@ -17,8 +15,6 @@
 
 
 [wishlist]: http://www.wikiwand.com/ru/Вишлист
-[malcolm]: https://uk.wikipedia.org/wiki/Малкольм_у_центрі_уваги
-[labirint]: https://ru.aliexpress.com/item/100-3D/32964607601.html
 [neocubeball]: https://ru.aliexpress.com/item/2019-5-216-Bucky-Puzzle-Magcube-Neo/32968150505.html
 [neocubecube]:https://ru.aliexpress.com/item/216-pcs-N42-Block-Dia-5-x-5-x-5mm-NdFeB-Magnet-Cube-Magic-Toy-Gift/32637015188.html
 [multimetr]:https://ru.aliexpress.com/item/HYELEC-MS8236-6000-Counts-Digital-Multimeter-with-T-RMS-USB-1000V-10A-60M-Ohm-100mF-10MHz/32531814702.html
